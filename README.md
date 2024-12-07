@@ -1,3 +1,1 @@
-
-
-lighting test in d3d11, ambient + diffuse + specular
+basic lighting test in d3d11, ambient + diffuse + specular
